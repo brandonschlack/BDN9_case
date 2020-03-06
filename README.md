@@ -66,7 +66,7 @@ Layers would be:
 7. bdn9\_L5\_bottom
 
 ### Lo-Pro Case, RGB Bottom
-![Hi-Pro](https://i.imgur.com/mtQvlCx.jpg)
+![Lo-Pro](https://i.imgur.com/1Mkt1mv.jpg)
 Layers would be:
 
 1. bdn9\_L1\_plate
