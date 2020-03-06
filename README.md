@@ -20,7 +20,7 @@ The case can be built in 2 case styles, Lo-Pro and Hi-Pro. There are also 2 opti
 
 - BDN9 Kit and Components: Follow the [BDN9 Build Guide](https://docs.keeb.io/bdn9-build-guide/), but you will not be using the plates and standoffs.
 - 4x Standoffs
-  - [9mm M2 standoffs](https://keeb.io/products/m2-screws-and-standoffs?variant=47432051526) **OR** 12mm Standoffs (Included in BDN9 Kit). You can use the 12mm standoffs, just add one of the Mid Layer pieces. I just find the height to be too high for my liking.
+  - [9mm M2 standoffs](https://www.aliexpress.com/item/32968906213.html?spm=a2g0s.9042311.0.0.49014c4dnATcyT) **OR** 12mm Standoffs (Included in BDN9 Kit). You can use the 12mm standoffs, just add one of the Mid Layer pieces. I just find the height to be too high for my liking.
 - 4x Top Screws
   - [12mm M2 screws](https://www.mcmaster.com/92000A019) for a Hi-Pro lip with 2 layers that comes to just below the top of the switch housing.
   - [15mm M2 screws](https://www.mcmaster.com/95836A115) for a Hi-Pro lip with 3 layers that comes to covers the keyswitch completely as well as the bottom of the keycap.
@@ -62,7 +62,7 @@ Layers would be:
 3. bdn9\_L1\_plate
 4. bdn9\_L2\_pcb\_mid
 5. bdn9\_L3\_cutout
-6. bdn9\_L4\_diffuser
+6. bdn9\_L4\_diffuser (Clear Matte acrylic)
 7. bdn9\_L5\_bottom
 
 ### Lo-Pro Case, RGB Bottom
@@ -74,3 +74,16 @@ Layers would be:
 3. bdn9\_L3\_cutout
 4. bdn9\_L4\_cutout
 5. bdn9\_L5\_bottom (Clear Matte acrylic)
+
+### Hi-Pro Case, All Clear Matte, 3 Layer Lip
+![Lo-Pro](https://i.imgur.com/d4zhlW3.jpg)
+Layers would be:
+
+1. bdn9\_H1\_lip
+2. bdn9\_H1\_lip
+3. bdn9\_H1\_lip
+4. bdn9\_L1\_plate
+5. bdn9\_L2\_pcb\_mid
+6. bdn9\_L3\_cutout
+7. bdn9\_L4\_cutout
+8. bdn9\_L5\_bottom
