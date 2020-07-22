@@ -7,7 +7,7 @@ Get your own BDN9 kit at [Keeb.io](https://keeb.io/collections/keyboard-pcbs/pro
 
 I set out to make a simple acrylic case when I first built my BDN9. It has been a great design project for me and after a lot of questions and a couple of revisions, I can finally make it available for others to make their own.
 
-**Download ready-to-upload [Ponoko](https://www.ponoko.com/) SVGs from [Releases](/releases/latest), but always verify the dimensions listed in the Ponoko Previewer when ordering.**
+**Download ready-to-upload [Ponoko](https://www.ponoko.com/) SVGs from [Releases](../../releases/latest), but always verify the dimensions listed in the Ponoko Previewer when ordering.**
 
 ## About the Case
 
